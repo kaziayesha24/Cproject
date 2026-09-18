@@ -1,2 +1,2 @@
-print("welcome to the lab");
-print("hello");
+print("welcome to the ds lab");
+
